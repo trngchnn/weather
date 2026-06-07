@@ -5,7 +5,7 @@ Tên dự án: Phân tích mối quan hệ giữa nhiệt độ, độ ẩm và 
 
 Dự án tập trung vào việc nghiên cứu mối quan hệ giữa các yếu tố khí tượng lịch sử tại Thành phố Hồ Chí Minh và xây dựng mô hình học máy (Machine Learning) để dự báo trạng thái thời tiết. Đây là sản phẩm nghiên cứu thực hành được triển khai bởi nhóm 2 người trong khuôn khổ hoạt động của Câu lạc bộ Nghiên cứu Khoa học.
 
-* **Bối cảnh:** Dự án thực hành Nghiên cứu Khoa học (Nhóm 2 người).
+* **Bối cảnh:** Dự án thực hành với bối cảnh là thành viên của Câu lạc bộ Nghiên cứu Khoa học Sinh Viên (Nhóm 2 người).
 * **Vai trò cá nhân:** Chịu trách nhiệm chính trong việc Phân tích khám phá dữ liệu (EDA), Xử lý biến thời gian, Trực quan hóa xu hướng và Tối ưu hóa mô hình học máy nâng cao.
 
 ## 2. Mục tiêu nghiên cứu
