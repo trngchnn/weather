@@ -1,7 +1,5 @@
 # Ho Chi Minh City Weather: EDA & Predictive Modeling
 
-# Ho Chi Minh City Weather: EDA & Predictive Modeling
-
 ## 1. Thông tin chung
 * **Đề tài:** Phân tích dữ liệu khí tượng và xây dựng mô hình dự báo thời tiết tại Thành phố Hồ Chí Minh.
 * **Bối cảnh:** Dự án nghiên cứu thực hành trong khuôn khổ Câu lạc bộ Nghiên cứu Khoa học Sinh viên.
